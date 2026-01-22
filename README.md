@@ -1,8 +1,8 @@
-# SQL Case Study: VIP Customers & Revenue Concentration (SQLite + pandas)
+# Customer Segmentation & Revenue Concentration Analysis (SQL)
 
 **Scenario:** Synthetic e-commerce dataset (CSV extracts) loaded into a local SQLite database for analysis.
 
-**Objective:** Demonstrate advanced SQL (CTEs + window functions) by answering business-style questions about revenue concentration and VIP customers.
+**Objective:** To perform behavioral segmentation of the customer base and identify High-Value Customers (VIPs) using Advanced SQL (CTEs, Window Functions). The goal is to analyze revenue concentration (Pareto Principle) and provide actionable data for retention strategies.
 
 ---
 
